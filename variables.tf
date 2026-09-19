@@ -1,7 +1,7 @@
 variable "cluster_name" {
   description = "EKS playground cluster name"
   type        = string
-  default     = "playground_1"
+  default     = "playground_2"
 }
 
 variable "cluster_version" {
