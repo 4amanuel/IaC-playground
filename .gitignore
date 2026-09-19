@@ -1,4 +1,4 @@
 .terraform.*
 .terraform/
 terraform.*
-init-aws-eks
+init-*
